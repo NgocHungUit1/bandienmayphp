@@ -1,4 +1,4 @@
-# ShopLaravel
+# ShopPhp
 Website shop bán điện máy sử dụng php thuần
 
 
